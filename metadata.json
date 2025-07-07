@@ -1,0 +1,5 @@
+{
+  "name": "Visionary: Local AI Image Describer",
+  "description": "An intuitive web application that uses a local open-source model via Ollama to generate rich, detailed descriptions for any image you upload. Instantly understand the content and context of your visuals, all on your own machine.",
+  "requestFramePermissions": []
+}
