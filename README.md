@@ -1,4 +1,4 @@
-#Local Model AI-Powered Image Description
+# Local Model AI-Powered Image Description
 
 Welcome to Local Model AI-Powered Image Description, a template application that uses a locally running AI model to generate descriptions of images. This project is designed for beginners to learn how to build and customize AI-powered web applications.
 
